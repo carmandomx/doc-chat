@@ -2,11 +2,13 @@
 
 ## Resumen
 
-Para su proyecto final realizarán una app parecida en funcionalidad a la siguiente:
+Para su proyecto final realizarán una app parecida en funcionalidad a la siguiente: [app](https://hopeful-morse-552701.netlify.app/#/)
 
 Deberán de incluir un diseño diferente
 
 **Deberan usar Redux para manejar el estado excepto a lo relacionado con el WebSocket**
+
+## [Base URL](https://acapp.herokuapp.com/)
 
 ## Lista de Endpoints
 
